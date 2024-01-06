@@ -1,5 +1,5 @@
 # Seoul-Subway
-Analysis and Visualization of Seoul Subway Users' Big Data
+서울 지하철 이용객 빅데이터 분석 및 시각화
 
 <div align = "center">
   <img width="452" alt="img1" src="https://github.com/the0807/Seoul-Subway/assets/73097985/b0cd0f0c-eb97-44f7-8839-b04ce36c2288">
