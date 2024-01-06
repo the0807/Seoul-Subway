@@ -1,7 +1,7 @@
 # Seoul-Subway
 Analysis and Visualization of Seoul Subway Users' Big Data
 
-<div style="center">
+<div align = "center">
   <img width="452" alt="img1" src="https://github.com/the0807/Seoul-Subway/assets/73097985/b0cd0f0c-eb97-44f7-8839-b04ce36c2288">
   <img width="452" alt="img2" src="https://github.com/the0807/Seoul-Subway/assets/73097985/078e5de5-b6e3-4147-bbe5-c9222895c437">
   <img width="452" alt="img3" src="https://github.com/the0807/Seoul-Subway/assets/73097985/b2142941-7c92-4c31-8993-860d5cc4d887">
